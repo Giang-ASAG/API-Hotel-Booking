@@ -1,0 +1,1919 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\hostedservices\\backgroundtaskhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\hostedservices\\backgroundtaskhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\userdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\userdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\userdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\userdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iuserdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iuserdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\userdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\userdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iuserdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iuserdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\userdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\userdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\userdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\userdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\data\\hethonghotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\data\\hethonghotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\hotelservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\hotelservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\roomtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\roomimagesstoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\roomimagesstoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\roomservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\roomservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\otpverifyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\otpverifyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\bookingroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\bookingroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\monthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\monthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\vnpay\\vnpayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\vnpay\\vnpayresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\vnpay\\vnpayresquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\vnpay\\vnpayresquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\HethonghotelContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DH52110843-DAL\\HethonghotelContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\hotelimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\hotelimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\hotelimagestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\hotelimagestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\hotelimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\hotelimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\roomservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\roomservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\roomimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\roomimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\roomimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\roomimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\hotelservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\hotelservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\hotelimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\hotelimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ihotelservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ihotelservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\otpstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\otpstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\hotelimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\hotelimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\jwtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\jwtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ihotelimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ihotelimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\hotelimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\hotelimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelimagestoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\hotelimagestoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ihotelimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ihotelimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\ihotelimagestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\ihotelimagestoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iroomservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iroomservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomimagesstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomimagesstoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\controllers\\roomservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\roomimagesstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\roomimagesstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iroomimagesstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iroomimagesstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\interfaces\\iroomimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\interfaces\\iroomimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\roomimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\roomimagesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\roomimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\roomimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iroomimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iroomimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\roomservice_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\roomservice_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\iroomservice_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\iroomservice_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\interfaces\\ihotelserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\interfaces\\ihotelserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\services\\hotelserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\services\\hotelserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6A8BA9-39CB-4C55-8B80-5A5BB5F17182}|DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj|solutionrelative:dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-dal\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2336986C-B921-41A9-9C76-72C795E1DC9E}|DH52110843-DAL\\DH52110843-DAL.csproj|solutionrelative:dh52110843-dal\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|d:\\luanvan\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-api-quan-ly-khach-san-homestay\\dh52110843-bll\\dto\\roomimagestoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D492E470-309B-4C08-A172-79A77BF4F86B}|DH52110843-BLL\\DH52110843-BLL.csproj|solutionrelative:dh52110843-bll\\dto\\roomimagestoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Program.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Program.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Program.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:36:00.996Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\RoomTypeRepository.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwFoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:36:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\RoomTypeService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomTypeService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\RoomTypeService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAMwC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:08:37.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:16:41.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\HotelRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\HotelRepository.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAWwHEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:16:09.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VnPayConfig.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Config\\VnPayConfig.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Config\\VnPayConfig.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Config\\VnPayConfig.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Config\\VnPayConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:58:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\RoomRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\RoomRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:16:44.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomTypeController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomTypeController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomTypeController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomTypeController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomTypeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwC8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:17:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:44:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\BookingRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\BookingRepository.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAYwIEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:49:35.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAtwGAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:56:29.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAYwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:52:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Booking.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Booking.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Booking.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:25:12.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:53:41.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\BookingService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\BookingService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:53:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:49:40.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackgroundTaskHostedService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\HostedServices\\BackgroundTaskHostedService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\HostedServices\\BackgroundTaskHostedService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\HostedServices\\BackgroundTaskHostedService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\HostedServices\\BackgroundTaskHostedService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAtwCYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:15:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\BookingDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\BookingDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:54:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserDocumentService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IUserDocumentService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IUserDocumentService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IUserDocumentService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IUserDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:10:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDocumentController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserDocumentController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserDocumentController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserDocumentController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\UserDocumentController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:17:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDocumentService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\UserDocumentService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\UserDocumentService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\UserDocumentService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\UserDocumentService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:11:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDocumentRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\UserDocumentRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\UserDocumentRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\UserDocumentRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\UserDocumentRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:04:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserDocumentRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IUserDocumentRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IUserDocumentRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IUserDocumentRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IUserDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:04:03.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:38:58.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDocumentDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserDocumentDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\UserDocumentDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserDocumentDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\UserDocumentDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:02:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HethonghotelContext.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Data\\HethonghotelContext.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Data\\HethonghotelContext.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Data\\HethonghotelContext.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Data\\HethonghotelContext.cs",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAUwK8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:26:11.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDocument.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\UserDocument.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\UserDocument.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\UserDocument.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\UserDocument.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:00:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:00:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IRoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:08:12.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAApwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:33:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingRoom.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\BookingRoom.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\BookingRoom.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\BookingRoom.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\BookingRoom.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:35:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Hotel.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Hotel.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Hotel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:13:18.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\User.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\User.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:00:59.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HotelServiceRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelServiceRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\HotelServiceRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelServiceRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\HotelServiceRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:53:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIAwwBsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:22:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwJ0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:06:31.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:58:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\PaymentService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAzwGIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:59:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\EmailService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\EmailService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\EmailService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:40:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:39:35.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:27:58.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoomTypeDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomTypeDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\RoomTypeDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomTypeDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\RoomTypeDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:17:50.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRoomTypeService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomTypeService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IRoomTypeService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomTypeService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IRoomTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:35:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IRoomService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IRoomService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:06:55.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:21:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwF4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:17:41.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\RoomService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\RoomService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:06:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:05:50.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoomServiceRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomServiceRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\RoomServiceRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomServiceRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\RoomServiceRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:33:36.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoomImagesStorageRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomImagesStorageRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\RoomImagesStorageRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomImagesStorageRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\RoomImagesStorageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:32:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\HotelService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\HotelService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:25:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\appsettings.json",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\appsettings.json",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\appsettings.json",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T05:44:45.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "DH52110843-BLL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:50:47.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "DH52110843-BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:50:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Config\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Config\\MappingProfile.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Config\\MappingProfile.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Config\\MappingProfile.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:11:26.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OtpVerifyRequest.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\OtpVerifyRequest.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\OtpVerifyRequest.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\OtpVerifyRequest.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\OtpVerifyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:50:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\UserRole.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\UserRole.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:37:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Review.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Review.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:42:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:58:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\PaymentRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\PaymentRepository.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:45:13.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:45:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HotelDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\HotelDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\HotelDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:54:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\ReviewDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\ReviewDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\ReviewDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:11:51.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:44:44.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\ReviewService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\ReviewService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA8wCkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:52:06.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Payment.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Payment.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Payment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:26:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HotelServiceController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelServiceController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelServiceController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelServiceController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelServiceController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwEIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:27:18.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BookingRoomDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\BookingRoomDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\BookingRoomDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\BookingRoomDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\BookingRoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:04:28.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MonthDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\MonthDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\MonthDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\MonthDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\MonthDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:33:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\RoomDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\RoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:16:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\PaymentDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\PaymentDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\PaymentDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAABQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:48:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VNPayResquest.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\VNPay\\VNPayResquest.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\VNPay\\VNPayResquest.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\VNPay\\VNPayResquest.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\VNPay\\VNPayResquest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:04:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IHotelService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IHotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:25:22.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "VNPayResponse.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\VNPay\\VNPayResponse.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\VNPay\\VNPayResponse.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\VNPay\\VNPayResponse.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\VNPay\\VNPayResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:56:41.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UserRoleDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserRoleDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\UserRoleDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\UserRoleDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\UserRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:23:56.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Room.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Room.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:24:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HethonghotelContext.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\HethonghotelContext.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\HethonghotelContext.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\HethonghotelContext.cs",
+              "RelativeToolTip": "DH52110843-DAL\\HethonghotelContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:22:30.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HotelImagesStorage.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelImagesStorage.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\HotelImagesStorage.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelImagesStorage.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\HotelImagesStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:29:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HotelImageStorageRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelImageStorageRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\HotelImageStorageRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelImageStorageRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\HotelImageStorageRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:15:51.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "HotelImageRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelImageRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\HotelImageRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\HotelImageRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\HotelImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:34:16.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RoomServiceDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomServiceDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\RoomServiceDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomServiceDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\RoomServiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:07:23.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RoomImageDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomImageDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\RoomImageDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomImageDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\RoomImageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:20:46.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "RoomImageRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomImageRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\RoomImageRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\RoomImageRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\RoomImageRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:38:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IReviewService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:51:57.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "HotelImageController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:59:15.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "HotelServiceDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelServiceDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\HotelServiceDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelServiceDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\HotelServiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:27:43.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "HotelImageDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelImageDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\HotelImageDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\HotelImageDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\HotelImageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:52:19.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IHotelServiceRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelServiceRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IHotelServiceRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelServiceRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IHotelServiceRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:53:03.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "OtpStore.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\OtpStore.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\OtpStore.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\OtpStore.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\OtpStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:48:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "HotelImage.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelImage.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\HotelImage.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelImage.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\HotelImage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:37:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "JwtClass.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\JwtClass.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\JwtClass.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\JwtClass.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\JwtClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:06:42.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IHotelImageStorageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelImageStorageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IHotelImageStorageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelImageStorageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IHotelImageStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:39:01.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HotelImageStorageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelImageStorageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\HotelImageStorageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelImageStorageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\HotelImageStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:35:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "HotelImageStorageController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageStorageController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageStorageController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageStorageController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\HotelImageStorageController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:27:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IHotelImageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelImageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IHotelImageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelImageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IHotelImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:35:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IHotelImageStorageRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelImageStorageRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IHotelImageStorageRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IHotelImageStorageRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IHotelImageStorageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:38:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "IRoomServiceRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomServiceRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IRoomServiceRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomServiceRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IRoomServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:33:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "RoomImagesStorageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomImagesStorageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\RoomImagesStorageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomImagesStorageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\RoomImagesStorageService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:40:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "RoomImageController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImageController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImageController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImageController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImageController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:17:09.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RoomImagesStorageController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImagesStorageController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImagesStorageController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImagesStorageController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomImagesStorageController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAxwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:52:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "RoomServiceController.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomServiceController.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomServiceController.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomServiceController.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\Controllers\\RoomServiceController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:25:38.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IRoomImagesStorageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomImagesStorageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IRoomImagesStorageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomImagesStorageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IRoomImagesStorageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:40:38.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IRoomImagesStorage.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomImagesStorage.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Interfaces\\IRoomImagesStorage.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Interfaces\\IRoomImagesStorage.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Interfaces\\IRoomImagesStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:28:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "RoomImagesStorage.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomImagesStorage.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\RoomImagesStorage.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomImagesStorage.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\RoomImagesStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:28:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "RoomImage.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomImage.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\RoomImage.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomImage.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\RoomImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:00:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IRoomImageService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomImageService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IRoomImageService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomImageService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IRoomImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:38:13.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "RoomService_Service.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomService_Service.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\RoomService_Service.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\RoomService_Service.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\RoomService_Service.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:04:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\RoomType.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomType.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\RoomType.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:24:10.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IRoomService_Service.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomService_Service.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IRoomService_Service.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IRoomService_Service.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IRoomService_Service.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:04:01.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelService.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\HotelService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\HotelService.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\HotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:05:17.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomService.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\RoomService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\RoomService.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:34:14.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "HotelServiceService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelServiceService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Services\\HotelServiceService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Services\\HotelServiceService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Services\\HotelServiceService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:45:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "IHotelServiceService.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelServiceService.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\Interfaces\\IHotelServiceService.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\Interfaces\\IHotelServiceService.cs",
+              "RelativeToolTip": "DH52110843-BLL\\Interfaces\\IHotelServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:57:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\WeatherForecast.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\WeatherForecast.cs",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:44:44.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "DH52110843-api-quan-ly-khach-san-homestay.csproj",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj",
+              "RelativeDocumentMoniker": "DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj",
+              "RelativeToolTip": "DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T04:43:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Statistic.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Models\\Statistic.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Models\\Statistic.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Models\\Statistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:08:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DH52110843-DAL\\Repository\\ReviewRepository.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-DAL\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "DH52110843-DAL\\Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:46:40.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "RoomImageStorageDTO.cs",
+              "DocumentMoniker": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomImageStorageDTO.cs",
+              "RelativeDocumentMoniker": "DH52110843-BLL\\DTO\\RoomImageStorageDTO.cs",
+              "ToolTip": "D:\\luanvan\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-api-quan-ly-khach-san-homestay\\DH52110843-BLL\\DTO\\RoomImageStorageDTO.cs",
+              "RelativeToolTip": "DH52110843-BLL\\DTO\\RoomImageStorageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:43:17.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

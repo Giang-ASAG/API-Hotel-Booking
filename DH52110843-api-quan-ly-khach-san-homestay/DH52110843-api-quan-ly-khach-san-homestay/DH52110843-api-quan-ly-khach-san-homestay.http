@@ -1,0 +1,6 @@
+@DH52110843_api_quan_ly_khach_san_homestay_HostAddress = http://localhost:5200
+
+GET {{DH52110843_api_quan_ly_khach_san_homestay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

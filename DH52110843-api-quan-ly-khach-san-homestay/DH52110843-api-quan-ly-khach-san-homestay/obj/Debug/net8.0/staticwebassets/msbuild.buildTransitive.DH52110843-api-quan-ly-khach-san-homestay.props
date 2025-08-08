@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DH52110843-api-quan-ly-khach-san-homestay.props" />
+</Project>
